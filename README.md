@@ -1,10 +1,10 @@
 
-![Logo](https://raw.githubusercontent.com/anoopaneesh/youtube-transcript-summarizer/master/icon.png)
+![Logo](https://raw.githubusercontent.com/rose17-creator/youtube_trans_summarizer_ext/main/icon.png)
 
     
 # Youtube Transcript Summarizer
 
-A Chrome extension which uses python nlp to summarize a youtube video transcript
+A Chrome extension which uses python's nltk library to summarize a youtube video transcript
 
 
 ## Installation 
