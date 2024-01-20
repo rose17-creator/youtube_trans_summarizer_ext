@@ -12,7 +12,7 @@ A Chrome extension which uses python's nltk library to summarize a youtube video
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/anoopaneesh/youtube-transcript-summarizer.git
+  git clone https://github.com/rose17-creator/youtube_trans_summarizer_ext.git
   cd youtube-transcript-summarizer/server
   pip install -r requirements.txt
   python api.py
